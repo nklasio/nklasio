@@ -2,8 +2,7 @@
 
 
 ## I'm a 21 years old hobbies, self taught developer!
-- 🔭 I’m currently working on a fashion shopping website!
-- 🌱 I’m currently learning to make my projects scalable.
+- Currently trying to get my health fixed to become a real developer again!
 - 🥅 2020 Goals: Find a job in development for next year!
 
 ## About my development past
