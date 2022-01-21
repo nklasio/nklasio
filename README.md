@@ -1,12 +1,12 @@
 ### Hi there, I'm Niklas 👋
 
 
-## I'm a 21 years old hobbies, self taught developer!
+## I'm a 22 years old hobbies, self taught developer!
 - Currently trying to get my health fixed to become a real developer again!
-- 🥅 2020 Goals: Find a job in development for next year!
+- 🥅 2022 Goals: Use my current private projects to start at least 2 more companies 
 
 ## About my development past
-- I started learning about development 10 years ago.
+- I started learning about development 12 years ago.
 - I spent most of my time writing code for other people to enjoy.
 - I started to "work" for local developer teams after school as early as an age of 12.
 - From then on I worked with a lot of amazing people and joined a hand full of different communities.
@@ -15,19 +15,18 @@
 
 - I started 2020 with learning the TALL-Stack (TailwindCSS, Livewire, AlpineJS) and sattled on it. 
 
-- Currently I am working on projects to add to my portfolio. 
 
 ### Languages and Tools and learned and use
 - Visual Studio Code
 - macOS: with zsh and oh my zsh
 - Docker
 - Debian and Arch-Linux
-- Redit
+- Redis
 - Websockets
 - I started development with learning C++, went over Java to C#. From there I learned PHP, JavaScript, Phython and Go. 
 - MySQL, HTML and CSS
 
-- I started to learn using Version Control Systems fron the first day. From a private SVN to Github and GitLab
+- I started to learn using Version Control Systems from the first day. From a private SVN to Github and GitLab
 
 
 ### Connect with me:
@@ -35,11 +34,4 @@
 <br>
 ---
 <br>
-
-<img align="left" alt="nklasio's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nklasio&show_icons=true&hide_border=true&count_private=true" >
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nklasio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [twitter]: https://twitter.com/nklasio
