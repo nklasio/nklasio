@@ -1,7 +1,7 @@
 ### Hi there, I'm Niklas 👋
 
 
-## I'm a 22 years old hobbies, self taught developer!
+## I'm a 23 years old hobbies, self taught developer!
 - Currently trying to get my health fixed to become a real developer again!
 - 🥅 2022 Goals: Use my current private projects to start at least 2 more companies 
 
